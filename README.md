@@ -4,6 +4,13 @@
 
 This project is a car simulation game developed using Pygame and NEAT (NeuroEvolution of Augmenting Topologies) for training artificial intelligence. The game involves cars navigating a track, with their movements controlled by a neural network trained through NEAT.
 
+## demo
+
+
+https://github.com/IdoSefi/simple_car_using_NEAT/assets/172110264/c14e5a27-4027-4c11-bb32-f7670888b5f5
+
+
+
 ## Features
 
 - **Car Movement and Control**: The cars move based on their velocity and angle, with the ability to steer left and right.
