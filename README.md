@@ -6,9 +6,8 @@ This project is a car simulation game developed using Pygame and NEAT (NeuroEvol
 
 ## dmo of the training process
 
+https://github.com/IdoSefi/simple_car_using_NEAT/assets/172110264/79a12b9b-2e46-459e-b8f8-b964469b9a82
 
-
-Uploading WhatsApp Video 2024-06-22 at 10.32.54_3459b5d0.mp4…
 
 
 
