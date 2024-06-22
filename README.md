@@ -102,10 +102,6 @@ https://github.com/IdoSefi/simple_car_using_NEAT/assets/172110264/fd35f588-1ac8-
 - Over generations, the neural networks evolve to improve their performance in navigating the track.
 - The best-performing neural network is saved to a file (`best car mix.pickle`).
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## Acknowledgments
 
 - The NEAT-Python library for the implementation of the NEAT algorithm.
