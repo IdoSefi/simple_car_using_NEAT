@@ -4,10 +4,19 @@
 
 This project is a car simulation game developed using Pygame and NEAT (NeuroEvolution of Augmenting Topologies) for training artificial intelligence. The game involves cars navigating a track, with their movements controlled by a neural network trained through NEAT.
 
-## demo
+## dmo of the training process
 
 
-https://github.com/IdoSefi/simple_car_using_NEAT/assets/172110264/c14e5a27-4027-4c11-bb32-f7670888b5f5
+
+Uploading WhatsApp Video 2024-06-22 at 10.32.54_3459b5d0.mp4…
+
+
+
+## demo of playing the best genome
+
+
+https://github.com/IdoSefi/simple_car_using_NEAT/assets/172110264/fd35f588-1ac8-4276-b968-1a4ef816864d
+
 
 
 
